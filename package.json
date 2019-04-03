@@ -4,7 +4,7 @@
   "description": "A chat app using WebSockets",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
     "server-node": "node -p 4000"
   },
   "author": "Veerendra",
