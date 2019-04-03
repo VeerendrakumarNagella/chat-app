@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
-    "server-node": "node -p 4000"
+    "server-node": "http-server -p 8081"
   },
   "author": "Veerendra",
   "license": "ISC",
